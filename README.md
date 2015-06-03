@@ -1,0 +1,2 @@
+# jpegoptim
+Jpeg optimisation utility
